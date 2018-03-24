@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="youtube">youtube</string>
+    <string name="home">home</string>
+    <string name="inlog">inlog</string>
+    <string name="log_in">Log in</string>
+    <string name="gebruikersnaam">Gebruikersnaam</string>
+    <string name="wachtwoord">Wachtwoord</string>
+    <string name="iam">iam</string>
+    <string name="menu">menu</string>
+
+
+</resources>
