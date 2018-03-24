@@ -15,7 +15,8 @@
             android:id="@+id/optie1"
             android:contentDescription="@string/inlog"
             android:layout_centerVertical="true"
-            android:layout_centerHorizontal="true" android:onClick="login"/>
+            android:layout_centerHorizontal="true"
+            android:onClick="login"/>
 
     <ImageView
             android:layout_width="wrap_content"
@@ -25,7 +26,8 @@
             android:contentDescription="@string/home"
             android:layout_marginEnd="50dp"
             android:layout_alignTop="@+id/optie1"
-            android:layout_toStartOf="@+id/optie1" android:onClick="gohome"/>
+            android:layout_toStartOf="@+id/optie1"
+            android:onClick="gohome"/>
 
     <ImageView
             android:layout_width="wrap_content"
@@ -35,6 +37,7 @@
             android:contentDescription="@string/youtube"
             android:layout_marginStart="48dp"
             android:layout_alignTop="@+id/optie1"
-            android:layout_toEndOf="@+id/optie1" android:onClick="youtube"/>
+            android:layout_toEndOf="@+id/optie1"
+            android:onClick="youtube"/>
 
 </RelativeLayout>
